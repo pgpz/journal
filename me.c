@@ -15,5 +15,6 @@ int main()
     printf("fun fact: i have roblox playing! i am fishing.\n");
     printf("hatched pets all day and played pokemmo all day. getting far!\n");
   
+    return 0;
 
   }

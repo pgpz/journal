@@ -14,6 +14,12 @@ int main()
     printf("also, this will be compilable. it can be read inside of a terminal! wow!\n");
     printf("fun fact: i have roblox playing! i am fishing.\n");
     printf("hatched pets all day and played pokemmo all day. getting far!\n");
+    printf("i reallllly need weed. this tobacco feels like hells crotch in my throat\n");
+  // fyi writing this in C is fun and fundamental to my mind! i must ascend to the 4th dimension with C!
+  // i must learn and become a god! hahahhahahahahahhahahahhaha
+    printf("i need help lowkey, its getting bad but its ok. my girlfriend saves me everyday. love her!\n");
+    printf("i am at 5000mg of methocarbamol lol feelig NOTHING");
+  }
   
     return 0;
 

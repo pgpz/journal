@@ -11,6 +11,9 @@ int main()
     printf("feeling ok, need weed. mom wont wake up! she has the weed.");
     printf("i have black dog by samurai blasting in my ears. cyberpunk is a gem.\n");
     printf("ok now sweet dreams by marilyn manson came on. absolute fucking peak.\n");
-    
+    printf("also, this will be compilable. it can be read inside of a terminal! wow!\n");
+    printf("fun fact: i have roblox playing! i am fishing.\n");
+    printf("hatched pets all day and played pokemmo all day. getting far!\n");
+  
 
   }
